@@ -33,8 +33,6 @@ I build full-stack web applications, native Apple Silicon macOS utilities, and l
 
 - **[VI // Archive](https://grandtheftauto-kohl.vercel.app)** — Interactive WebGL2 map & completion tracker
 - **[Rettouch Web](https://rettouch-web.vercel.app)** — Typography-driven Next.js 16 + Tailwind CSS v4 site
-- **[Price Tracker](https://web-scraper-eta.vercel.app)** — Automated Next.js + MongoDB product price tracker
-
 ---
 
 ## Tech Stack
